@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Noyon — MERN Stack Developer
+### 👋 Hi, I'm Nayan — MERN Stack Developer
 
 🚀 I build full-stack web apps using **MongoDB, Express, React, and Node.js**  
 🔍 Currently looking for **remote opportunities** and open-source collaboration  
